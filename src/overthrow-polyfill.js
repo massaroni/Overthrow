@@ -203,4 +203,4 @@
 		doc.addEventListener( "touchstart", start, false );
 	};
 		
-})( this, this.overthrow );
+})( window, window.overthrow );

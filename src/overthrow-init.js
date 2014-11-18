@@ -4,4 +4,4 @@
 	// Auto-init
 	w.overthrow.set();
 
-}( this ));
+}( window ));

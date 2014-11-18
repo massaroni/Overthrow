@@ -90,4 +90,4 @@
 	// Expose overthrow API
 	w.overthrow.support = nativeOverflow ? "native" : "none";
 		
-})( this );
+})( window );

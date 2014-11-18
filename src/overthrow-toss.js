@@ -118,4 +118,4 @@
 		o.tossing = false;
 	};
 
-})( this, this.overthrow );
+})( window, window.overthrow );
